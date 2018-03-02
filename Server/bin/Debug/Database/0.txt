@@ -1,0 +1,6 @@
+Username	:Cyanide
+CPU Key		:79F3DACAC5A898838FE92AE648C8F26E
+Expiration	:4/27/2023 1:30:13 AM
+Tier		:Admin
+Payment Info	:admin@unshared.ninja
+Last IP		:192.168.1.14
